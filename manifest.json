@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Nest banner removal",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Prevents Nest site from showing the annoying Nest Aware upsell banner",
 
   "content_scripts": [{
