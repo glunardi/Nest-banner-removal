@@ -16,7 +16,31 @@
 }
 
 .styles--nonSubscriber_1wO {
+    position: absolute;
     visibility: hidden;
     height: 0px;
+    display: none;
+}
+
+.styles--toolbar_20h .styles--toolbar_2T6 .styles--upsellBanner_yPA {
+    position: absolute;
+    visibility: hidden;
+    height: 0px;
+    display: none;
+}
+
+.styles--upsellBanner_yPA {
+    position: absolute;
+    visibility: hidden;
+    height: 0px;
+    display: none;
+}
+
+
+.styles--toolbar_2T6 {
+    position: absolute;
+    visibility: hidden;
+    height: 0px;
+    display: none;
 }
 
